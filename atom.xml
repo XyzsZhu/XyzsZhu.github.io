@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xyzszhu.github.io</id>
     <title>有目的的人生才会迷路，我只是来这个世界散步</title>
-    <subtitle></subtitle>
+    <subtitle>行源之水のBlog</subtitle>
     <icon>https://xyzszhu.github.io/assets/favicon.ico</icon>
     <link href="https://xyzszhu.github.io" />
     <author>
-      <name>Xyzs</name>
+      <name>行源之水</name>
     </author>
     <updated>2026-01-03T10:03:25.174Z</updated>
     <entry>
