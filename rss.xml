@@ -8,10 +8,13 @@
         <author>
           <name>行源之水</name>
         </author>
-        <description></description>
+        <description>学习-记录-分享</description>
         <language>zh-CN</language>
         <pubDate>Sat, 03 Jan 2026 18:03:25 +0800</pubDate>
         <lastBuildDate>Sat, 03 Jan 2026 18:03:25 +0800</lastBuildDate>
+        <category term="学习" />
+        <category term="记录" />
+        <category term="编程" />
         <item>
             <guid isPermalink="true">https://xyzszhu.github.io/2026/01/03/hello-world/</guid>
             <title>Hello World</title>

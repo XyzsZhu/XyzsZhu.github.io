@@ -9,6 +9,9 @@
       <name>行源之水</name>
     </author>
     <updated>2026-01-03T10:03:25.174Z</updated>
+    <category term="学习" />
+    <category term="记录" />
+    <category term="编程" />
     <entry>
         <id>https://xyzszhu.github.io/2026/01/03/hello-world/</id>
         <title>Hello World</title>
